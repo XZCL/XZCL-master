@@ -1,0 +1,9 @@
+Building xzclassic
+
+See doc/readme-qt.rst for instructions on building xzclassic,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of zcoinclassiccalssic.
+
+See doc/build-*.txt for instructions on building zcoinclassicclassicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of xzclassic.
